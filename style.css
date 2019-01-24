@@ -1,0 +1,34 @@
+footer{
+    background-color: black;
+    width: 100%;
+    height: 400px; 
+}
+
+.inner h2{
+    color: aliceblue;
+    text-align: center;
+}   
+
+.inner p{
+    color: aliceblue;
+    text-align: center;
+}
+
+li{
+    display: inline-block;
+    text-align: center;
+    width: 100%;    
+    margin-left: 40px;
+}
+ul{
+    display: inline-flex;
+    margin: 0 auto;
+}
+
+
+.copyright{
+    margin-top: 5%;
+}
+
+
+
