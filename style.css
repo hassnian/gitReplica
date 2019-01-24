@@ -1,0 +1,12 @@
+}
+.caption {
+ position: absolute;
+ top: 45%;
+ left: 0;
+ width: 100%;
+}
+.container-fluid{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
